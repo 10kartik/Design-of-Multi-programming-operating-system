@@ -1,0 +1,5 @@
+
+**** Operand error : ****
+**** Program terminated abnormally. ****
+SI = 0  TI =0  PI=2
+TTC = 0  LLC=0
