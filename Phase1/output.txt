@@ -1,0 +1,27 @@
+Hello World!
+
+
+d___c___b___a___                        
+
+
+VIT
+VIIT
+NOT
+SAME
+
+
+1___0___0___1___
+PALINDROME
+
+
+                    *                
+            *            *        
+    *            *            *
+
+
+*
+**
+***
+****
+
+
